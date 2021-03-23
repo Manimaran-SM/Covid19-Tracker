@@ -74,8 +74,8 @@ pip install panda
 >* Using Python Tkinter, User-friendly GUI is created to quickly go through the current impact stats.
 
 ## Sample Output:
-![image1]()
-![image2]()
+![image1](https://github.com/Manimaran-SM/Covid19-Tracker/blob/master/output1.png)
+![image2](https://github.com/Manimaran-SM/Covid19-Tracker/blob/master/output2.png)
 ## Note:
 >* Given commands works only for windows.
 >* Python IDE and Following packages must be installed in system.
